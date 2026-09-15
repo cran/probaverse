@@ -1,13 +1,13 @@
-be062ce6f3bfb2b848c1f2da7a7f1b1f *DESCRIPTION
+b51a654236577664a0c6720365b02155 *DESCRIPTION
 4771409c5b913e1802952d521231a8b4 *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-65732ee60d9ac0b5ea5590721a7d6699 *NEWS.md
+eda5fbb14c9162773e9aa6c107188a6f *NEWS.md
 8b15c8f9b080fcf48ce97f918e5a9fc2 *R/probaverse-package.R
 be4ac17f0a0e685c9f48c8909bca852d *R/zzz.R
 7b089748d0040fe842423ea468557876 *README.md
 7553ea469be25c5d48b46154ba45240e *man/figures/logo.png
 f38ff76eab257753ca40d23d0adf158c *man/figures/probaverse-1716x1997.png
 6725f0a95b7f0ad01e45718d589dfd7d *man/figures/probaverse-240x278.png
-7b513ed7cf7bd73a65688b8f22212cea *man/probaverse-package.Rd
+553b789180ee87e22399e58d263bd836 *man/probaverse-package.Rd
 482b8ba285209f6cc78319dea910a846 *tests/testthat.R
 e98ff2690a9d10a12bab751f9de1664d *tests/testthat/test-package-loading.R
